@@ -97,6 +97,7 @@ width: 9px;
 
 .side-bar ul li {
   margin-bottom: 5px;
+  transition:.5s;
 }
 
 .side-bar ul li a {

@@ -67,6 +67,7 @@ ul {
   margin-bottom: 50px;
   position:sticky;
   top: 20px;
+   transition: .5s;
 }
 
 .side-bar h3::before,
@@ -101,7 +102,7 @@ width: 9px;
 }
 
 .side-bar ul li a {
- 
+  transition:.5s;
 }
 
 .side-bar ul li a:hover,
